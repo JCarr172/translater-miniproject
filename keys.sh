@@ -1,0 +1,3 @@
+export TRANSLATOR_TEXT_ENDPOINT=https://api.cognitive.microsofttranslator.com/
+export TRANSLATOR_TEXT_SUBSCRIPTION_KEY=fcd52901b77f46bc908e9f7bc359815c
+export SECRET_KEY=asfgasgafsdv
